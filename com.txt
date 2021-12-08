@@ -1,0 +1,69 @@
+br0;Na programacao orientada a objetos,as classes podem conter,dentre outros elementos,métodos e atributos. Os métodos
+br0;a)encapsulamento
+br0;b)heranca
+br0;c)agregacao
+br0;d)abstracao
+br0;e)polimorfismo
+br1;Durante a instalacao do protocolo TCP/IP no ambiente Windows 95/98,na guia de instalacao,existem basicamente quatro tipos de componentes disponíveis que podem estar listados. Sao eles
+br1;a)protocolos,servicos,clientes e servidor.
+br1;b)servicos,clientes,adaptadores de rede e servidor.
+br1;c)servidor,protocolos,adaptadores de rede e servicos.
+br1;d)adaptadores de rede,protocolos,servicos e clientes.
+br1;e)clientes,servidor,adaptadores de rede e protocolos.
+br2;Ao acessarmos,na Internet,o endereco http://www.candidato.com.br/index.html, a parte do endereco contendo index.html está relacionada ao:
+br2;a)nome do servidor.
+br2;b)frame utilizado no html.
+br2;c)nome da página solicitada.
+br2;d)protocolo de transferencia de hipertexto.
+br2;e)nome do domínio.
+br3;No diagrama de classes da UML 2.0, é possível definir informacoes sobre uma classe, no compartimento de nome da classe, informacoes essas nao pertinentes aos demais compartimentos da representacao de uma classe. A esse tipo de informacao atribui-se a denominacao de.
+br3;a)utilitários.
+br3;b)visibilidade.
+br3;c)multiplicidade.
+br3;d)propriedades.
+br3;e)associacao.	
+br4;Na analise orientada a objetos, o diagrama que descreve os tipos de objetos e seus relacionamentos, descreve a estrutura estática de um sistema, isto e, descreve como o sistema é estruturado, e nao como ele se comporta, é o diagrama de.
+br4;a)classe.
+br4;b)pacotes.		
+br4;c)colaboracao.	
+br4;d)estados.	
+br4;e)atividades.	
+br5;Atribuindo-se a letra C para comportamental e E para estrutural, na UML 2.5, os diagramas de Caso de Uso, Sequencia, Atividade e Classe sao utilizados para representar, correta e respectivamente, elementos do modelo no contexto.
+br5;a)E,E,C,E.	
+br5;b)C,C,C,E.	
+br5;c)C,E,C,E.	
+br5;d)E,E,E ,C.	
+br5;e)C,E,E,E.	
+br6;Diagrama de UML e a representacao grafica da informacao do modelo UML e está dividido em Estrutural e Comportamental. Assinale a alternativa correta que contem somente Diagrama Estrutural.
+br6;a)Diagrama de sequencia; Diagramas de pacotes; Diagrama de colaboracao.
+br6;b)Diagrama de atividade; Diagramas de objetos; Diagrama de caso de uso.
+br6;c)Diagramas de classes; Diagramas de componentes; Diagrama de perfil.	
+br6;d)Diagrama de sequência; Diagramas de implementacao ou instalacao; Diagrama de colaborac3ao.
+br6;e)Diagrama de sequência;Diagramas de objetos; Diagrama de caso de uso.
+br7;Em diagramas de classe UML, é válido dizer que:
+br7;a)Nao há como especificar a visibilidade de atributos de classe.	
+br7;b)O uso de restrices a classes e dependências nao é válido.	
+br7;c)E possível especificar hierarquias e composicoes.	
+br7;d)Nao pode conter somente interfaces.	
+br7;e)Nao pode conter somente classes.	
+br8;No uso da linguagem UML, o nível de visibilidade de um atributo que so pode ser acessado por classes declaradas dentro do mesmo pacote da classe a que pertence o atributo é denominado
+br8;a)pacote.	
+br8;b)publico.	
+br8;c)protegido.	
+br8;d)privado.	
+br8;e)domínio.	
+br9;Seja um diagrama de classes, segundo o modelo UML. E m uma classe Y desse diagrama há um atributo que pode ser acessível por todas as outras classes existentes no diagrama.
+Esse atributo é dito como sendo um atributo
+br9;a)privado.	
+br9;b)público.	
+br9;c)protegido	
+br9;d)secreto.	
+br9;e)sigiloso
+brb10;Os diagramas de classe UML também podem exibir relacoes entre classes. Uma relacao de ___________ representa uma conexao particular entre classes em que alteracoes na segunda classe podem requerer alteracoes na primeira classe; essa relacao é indicada por uma linha tracejada (com setas opcionais nas extremidades e com rótulos opcionais).
+
+Assinale a alternativa que preenche corretamente a lacuna do texto acima.
+brb10;a)encapsulamento	
+brb10;b)generalizacao
+brb10;c)agregacao
+brb10;d)dependencia
+brb10;e)multiplicidade 

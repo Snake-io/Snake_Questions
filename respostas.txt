@@ -1,0 +1,11 @@
+br0;a;encapsulamento.
+br1;d;adaptadores de rede,protocolos,servicos e clientes.
+br2;e;nome da pagina solicitada.
+br3;e;associacao.	
+br4;a;classe
+br5;b;C,C,C,E.	
+br6;c;Diagramas de classes; Diagramas de componentes; Diagrama de perfil
+br7;c;E possível especificar hierarquias e composicoes.
+br8;a;pacote.	
+br9;b;publico.	
+br10;d;dependencia
